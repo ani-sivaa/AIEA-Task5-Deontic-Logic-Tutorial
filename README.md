@@ -1,5 +1,4 @@
 # AIEA-Task5-Deontic-Logic-Tutorial
-Task 5 for AIEA LAB
 Deontic logic is a simple way to write rules about what people must do, may do, or must not do. Think of it as a language for writing down rules and permissions clearly.
 The Three Basic Symbols
 
